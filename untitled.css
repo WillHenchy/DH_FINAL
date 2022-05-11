@@ -1,0 +1,33 @@
+.story-header {
+	font-family: georgia, serif;
+
+}
+
+h1 { 
+font-size: 35px; 
+color: darkred;
+text-align: center;
+}
+h3 {
+	font-size: 20px;
+	text-align: center;
+}
+
+iframe {
+	margin: 5px;
+	max-width: 600px;
+
+}
+
+p {
+	padding: 10px;
+}
+
+img { 
+	max-width: 100%;
+	}
+
+.body {
+	max-width: 800px;
+	padding: 10px;
+	}
